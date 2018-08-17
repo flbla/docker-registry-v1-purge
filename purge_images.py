@@ -1,8 +1,8 @@
 # @Author: flbla
 # @Date:   2018-08-17T09:45:19+02:00
 # @Filename: purge_images.py
-# @Last modified by:   florian
-# @Last modified time: 2018-08-17T10:06:05+02:00
+# @Last modified by:   flbla
+# @Last modified time: 2018-08-17T13:25:27+02:00
 
 #!/usr/bin/python3
 
